@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Colorsublime",
+		"DocBlockr",
+		"GitGutter",
+		"LSP",
+		"MarkdownPreview",
+		"NeoVintageous",
+		"Package Control",
+		"Rust Enhanced",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"Terminal"
+	]
+}
