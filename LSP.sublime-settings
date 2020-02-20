@@ -13,6 +13,27 @@
                 "featureFlags": {
                 }
             },
+        },
+    "ccls": {
+        "command": ["ccls"],
+        "scopes": ["source.c", "source.c++", "source.objc", "source.objc++"],
+        "syntaxes": ["Packages/C++/C.sublime-syntax", "Packages/C++/C++.sublime-syntax", "Packages/Objective-C/Objective-C.sublime-syntax", "Packages/Objective-C/Objective-C++.sublime-syntax"],
+        "languageId": "c++",
+        "initializationOptions":
+        {
+            "cacheDirectory": "/tmp/ccls",
+            "cacheFormat": "msgpack",
+            "completion":
+            {
+                "filterAndSort": false
+            },
+            "indexerCount": 0,
+            "index":
+            {
+                "comments": 2,
+            },
+            "progressReportFrequencyMs": -1,
         }
     }
+    },
 }

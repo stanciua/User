@@ -12,14 +12,18 @@
 		"Colorsublime",
 		"DocBlockr",
 		"GitGutter",
+		"gruvbox",
+		"Gruvbox Dark",
 		"LSP",
 		"MarkdownPreview",
 		"NeoVintageous",
+		"Outline",
 		"Package Control",
 		"Rust Enhanced",
 		"SideBarEnhancements",
 		"SublimeGit",
 		"SublimeLinter",
+		"TabNine",
 		"Terminal"
 	]
 }
